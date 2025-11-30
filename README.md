@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sudipta Biswas 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudipta9749&label=Profile%20views&color=0e75b6&style=flat" alt="sudipta9749" />
+  <img src="https://komarev.com/ghpvc/?username=BiswaSudipta&label=Profile%20views&color=0e75b6&style=flat" alt="BiswaSudipta" />
 </p>
 
 - 🔭 I’m currently working on **Exploratory Data Analysis & Machine Learning Models**
@@ -25,15 +25,9 @@
 <br/>
 
 <div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=BiswaSudipta&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   
   <br/>
-  <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=BiswaSudipta&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
-  
-  <br/>
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiswaSudipta&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</div>
